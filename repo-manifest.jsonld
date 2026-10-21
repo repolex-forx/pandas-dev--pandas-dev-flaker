@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pandas-dev/pandas-dev-flaker/commit/7336459987b92961cfd950f86ba2ec2de702daf0",
       "git:hexsha": "7336459987b92961cfd950f86ba2ec2de702daf0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.5.0"
     },
     {
