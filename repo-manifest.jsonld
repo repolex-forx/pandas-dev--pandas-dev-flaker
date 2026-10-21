@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/pandas-dev/pandas-dev-flaker/commit/7336459987b92961cfd950f86ba2ec2de702daf0",
       "git:hexsha": "7336459987b92961cfd950f86ba2ec2de702daf0",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.5.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.5.0",
+      "repolex:parsedAt": "2026-10-21T20:57:21.972922+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pandas-dev/pandas-dev-flaker/commit/8464bf9b52870ed956244f6962bbac7d4a93ac61",
